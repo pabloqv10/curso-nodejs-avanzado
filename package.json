@@ -1,0 +1,20 @@
+{
+  "name": "curso-nodejs-avanzado",
+  "version": "1.0.0",
+  "description": "This repository contains code examples and implementations from an advanced Node.js course, focusing on design patterns and best practices.",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal.com:pabloqv10/curso-nodejs-avanzado.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

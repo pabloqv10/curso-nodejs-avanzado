@@ -1,4 +1,4 @@
-const Logger = require('./logger')
+import Logger from './logger.js';
 
 const loggerInstance = new Logger();
 
@@ -42,4 +42,4 @@ class LoggerFactory {
   }
 }
 
-module.exports = LoggerFactory;
+export default LoggerFactory;
